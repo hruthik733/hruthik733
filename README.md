@@ -1,4 +1,4 @@
-# Hi, I'm Hruthik 👋  
+# Hi, I'm Hruthik Pavarala👋  
 
 🚀 **Machine Learning & Deep Learning Enthusiast | Healthcare AI | GenAI Explorer**  
 
