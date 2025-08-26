@@ -32,7 +32,3 @@
 
 ## 🏆 Achievements  
 - 📖 Published paper in **9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET - 2024)**  
-
----
-
-✨ *“AI should not just be smart, it should be impactful.”*  
