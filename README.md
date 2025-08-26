@@ -29,16 +29,9 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Hruthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hruthik733&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruthik733&layout=compact&theme=tokyonight)  
 
----
-
-### 🏆 Achievements  
-- 🎓 Conference Paper in **Healthcare AI (2024)**  
-- 💡 Built projects on **Pneumonia Detection, Insulin Prediction, Medical Image Segmentation**  
-- 🌍 Exploring **local LLM deployment** & **GenAI-driven Research Assistants**  
+## 🏆 Achievements  
+- 📖 Published paper in **9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET - 2024)**  
 
 ---
 
