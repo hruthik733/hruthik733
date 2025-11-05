@@ -31,4 +31,5 @@
 
 
 ## 🏆 Achievements  
-- 📖 Published paper in **9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET - 2024)**  
+- 📖 Published paper in **9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET - 2024)**
+- 🔗 **DOI:** [https://doi.org/10.1007/978-981-96-7253-0_26](https://doi.org/10.1007/978-981-96-7253-0_26)
